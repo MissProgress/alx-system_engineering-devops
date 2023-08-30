@@ -1,5 +1,2 @@
 #!/bin/bash
-
-CWD=$(pwd)
-echo "current_working_directory: $CWD"
-
+pwd
